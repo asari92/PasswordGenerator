@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Password Generator</string>
+    <string name="faq">Выберите нужные пункты, задайте длину и нажмите «Сгенерировать пароль»</string>
+    <string name="generate">сгенерировать пароль</string>
+    <string name="punctuations">Спец. символы %, *, ),?, @, #, $, ~ и т.д.</string>
+    <string name="bigLetters">Большие буквы A-Z</string>
+    <string name="letters">Маленькие буквы a-z</string>
+    <string name="numbers">Цифры 0-9</string>
+    <string name="pass_length">задайте длину пароля</string>
+    <string name="how_many_pass">задайте количество необходимых паролей</string>
+</resources>
